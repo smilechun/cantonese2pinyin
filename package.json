@@ -1,0 +1,15 @@
+{
+  "name": "cantonese2pinyin",
+  "version": "1.0.0",
+  "description": "A module to convert cantonse to pinyin or codepoint vice versa.",
+  "main": "cantonese2pinyin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cantonese",
+    "pinyin"
+  ],
+  "author": "Chun Fat, Tai",
+  "license": "MIT"
+}
