@@ -10,6 +10,10 @@
     "cantonese",
     "pinyin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smilechun/cantonese2pinyin.git"
+  },
   "author": "Chun Fat, Tai",
   "license": "MIT"
 }
