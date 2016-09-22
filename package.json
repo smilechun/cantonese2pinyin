@@ -2,7 +2,7 @@
   "name": "cantonese2pinyin",
   "version": "1.0.0",
   "description": "A module to convert cantonese character to pinyin or unicode codepoint vice versa.",
-  "main": "cantonese2pinyin.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
