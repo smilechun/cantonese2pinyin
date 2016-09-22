@@ -12,7 +12,7 @@ console.log(cantonese2pinyin.getChar("一"));
 
 // Return a matched Array object
 console.log(cantonese2pinyin.getCodePoint("一"));
-console.log(cantonese2pinyin.getPinyin("一"));
+console.log(cantonese2pinyin.getPinyin("生"));
 console.log(cantonese2pinyin.getPinyin(19968));
 console.log(cantonese2pinyin.getChar("yat"));
 console.log(cantonese2pinyin.getChar(19968));

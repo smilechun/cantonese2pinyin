@@ -8,7 +8,7 @@ function getPinyin (c) {
     var result = (!isNaN(c) ? codePointDict[c] : cantCharDict[c]);
     return Array.isArray(result) ? result.map(function (child) {
         return child.pinyin
-    }) : null;
+    })[0] : null;
 }
 
 function getCodePoint (c) {
